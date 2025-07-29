@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<link rel="me" href="https://mastodon.social/@some1deleted">Mastodon</link>
-
 <!--
 **some1deleted/some1deleted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
